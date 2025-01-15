@@ -1,0 +1,8 @@
+{
+	"/": [],
+	"/api/vtubers/org/[org]": [
+		"src/routes/api/vtubers/org/[org]/+server.ts"
+	],
+	"/difficulty": [],
+	"/guess": []
+}

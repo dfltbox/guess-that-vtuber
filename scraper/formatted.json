@@ -1,0 +1,5154 @@
+
+[
+  {
+  "id": 1,
+  "name": "Aia Amare",
+  "country": "Vietnam (VN)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Vietnamese",
+  "datedebuted": "July 25, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/aia-amare/"
+},
+{
+  "id": 2,
+  "name": "Airani Iofifteen",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, German, Indonesian, Japanese, Korean",
+  "datedebuted": "April 12, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Iofi",
+    "Yopi",
+    "Erofi",
+    "Adriani Yofie"
+  ],
+  "url": "https://hololist.net/airani-iofifteen/"
+},
+{
+  "id": 3,
+  "name": "Aizono Manami",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "April 7, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/aizono-manami/"
+},
+{
+  "id": 4,
+  "name": "Akabane Youko",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 19, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Bane-chan",
+    "Baneko",
+    "Banego"
+  ],
+  "url": "https://hololist.net/akabane-youko/"
+},
+{
+  "id": 5,
+  "name": "Akagi Wen",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 2, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/akagi-wen/"
+},
+{
+  "id": 6,
+  "name": "Akira Ray",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "August 7, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/akira-ray/"
+},
+{
+  "id": 7,
+  "name": "Akuma Nihmune",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Korean",
+  "datedebuted": "November 19, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Numi",
+    "2Boob",
+    "Nihmu",
+    "Noomi",
+    "Nemo",
+    "Numiana Grande",
+    "Plum Kisser",
+    "Wall Kisser",
+    "Abs Girl "
+  ],
+  "url": "https://hololist.net/akuma-nihmune/"
+},
+{
+  "id": 8,
+  "name": "Alban Knox",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "February 27, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Konbini-kun",
+    "Alban Neko",
+    "Albanyan",
+    "Alice",
+    "Manager",
+    "KonKon"
+  ],
+  "url": "https://hololist.net/alban-knox/"
+},
+{
+  "id": 9,
+  "name": "Amagase Muyu",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 20, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/amagase-muyu/"
+},
+{
+  "id": 10,
+  "name": "Amamiya Kokoro",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 13, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Amyamya (あみゃみゃ)"
+  ],
+  "url": "https://hololist.net/amamiya-kokoro/"
+},
+{
+  "id": 11,
+  "name": "Amane Kanata",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "December 27, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Kanatan",
+    "PP Tenshi",
+    "Kanataso",
+    "Kana-kana",
+    "Amane-chan",
+    "Kabaya",
+    "Gorilla"
+  ],
+  "url": "https://hololist.net/amane-kanata/"
+},
+{
+  "id": 12,
+  "name": "Amemiya Nazuna",
+  "country": "Japan (JP)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 16, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Nazu-tan"
+  ],
+  "url": "https://hololist.net/amemiya-nazuna/"
+},
+{
+  "id": 13,
+  "name": "Amemori Sayo",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 12, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/amemori-sayo/"
+},
+{
+  "id": 14,
+  "name": "Amoria",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Korean",
+  "datedebuted": "March 3, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/amoria/"
+},
+{
+  "id": 15,
+  "name": "Ange Katrina",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 23, 2019",
+  "status": "Active",
+  "nicknames": [
+    "An-chan",
+    "Night Butterfly"
+  ],
+  "url": "https://hololist.net/ange-katrina/"
+},
+{
+  "id": 16,
+  "name": "Anny",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 13, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Anny the Fox"
+  ],
+  "url": "https://hololist.net/anny/"
+},
+{
+  "id": 17,
+  "name": "Anya Melfissa",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "December 5, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Kris",
+    "Chunchunmaru",
+    "Arya Melvine"
+  ],
+  "url": "https://hololist.net/anya-melfissa/"
+},
+{
+  "id": 18,
+  "name": "Apricot (Froot)",
+  "country": "United Kingdom (GB)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 27, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Apricot the Lich",
+    "BSApricot",
+    "Froot",
+    "lich"
+  ],
+  "url": "https://hololist.net/apricot-froot/"
+},
+{
+  "id": 19,
+  "name": "Aragami Oga",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "May 1, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Ouga",
+    "Erogami Eroga",
+    "Aniki",
+    "Oganiki",
+    "SVO (Sexy Voice Oga)",
+    "Ogachin"
+  ],
+  "url": "https://hololist.net/aragami-oga/"
+},
+{
+  "id": 20,
+  "name": "Ars Almal",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 28, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Malmal",
+    "Manmaru",
+    "MaruMaru",
+    "Big Face"
+  ],
+  "url": "https://hololist.net/ars-almal/"
+},
+{
+  "id": 21,
+  "name": "Arurandeisu",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "September 8, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Aruran",
+    "Pizza Dad",
+    "Papa",
+    "Arupapa",
+    "Aru-san",
+    "Aran",
+    "Eroran",
+    "GDP (Great Dandy Papa)",
+    "DJ ARN"
+  ],
+  "url": "https://hololist.net/arurandeisu/"
+},
+{
+  "id": 22,
+  "name": "Astel Leda",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "December 7, 2019",
+  "status": "Active",
+  "nicknames": [
+    "PBB (Pretty Baby Boy)",
+    "Space Seaweed",
+    "Aniki",
+    "Solostars",
+    "Gremlin",
+    "Disney Prince",
+    "Adachi Makoto",
+    "A-chan",
+    "Hime",
+    "Apex God"
+  ],
+  "url": "https://hololist.net/astel-leda/"
+},
+{
+  "id": 23,
+  "name": "Aster Arcadia",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "July 25, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/aster-arcadia/"
+},
+{
+  "id": 24,
+  "name": "Asuka Hina",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 12, 2018",
+  "status": "Active",
+  "nicknames": [
+    "HinaP"
+  ],
+  "url": "https://hololist.net/asuka-hina/"
+},
+{
+  "id": 25,
+  "name": "Axel Syrios",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English, Japanese",
+  "datedebuted": "July 24, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/axel-syrios/"
+},
+{
+  "id": 26,
+  "name": "Ayunda Risu",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "April 10, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Ayunda",
+    "Alter Risu",
+    "Tupaisen",
+    "Ananda Wisnu",
+    "Warden Risu",
+    "Erosu"
+  ],
+  "url": "https://hololist.net/ayunda-risu/"
+},
+{
+  "id": 27,
+  "name": "Ban Hada",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "April 30, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Captain",
+    "Reru-chan",
+    "Ban Haha",
+    "Ban Hihi"
+  ],
+  "url": "https://hololist.net/ban-hada/"
+},
+{
+  "id": 28,
+  "name": "Banzoin Hakka",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "January 8, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/banzoin-hakka/"
+},
+{
+  "id": 29,
+  "name": "Bao",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Japanese, Vietnamese",
+  "datedebuted": "October 30, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Pillow Princess"
+  ],
+  "url": "https://hololist.net/bao/"
+},
+{
+  "id": 30,
+  "name": "Belmond Banderas",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "September 19, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Bel-san",
+    "Bangiras",
+    "Onii-chan",
+    "Ojii-sama",
+    "Banderas-san",
+    "Bel-chan",
+    "Mama"
+  ],
+  "url": "https://hololist.net/belmond-banderas/"
+},
+{
+  "id": 31,
+  "name": "Camila",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 10, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Camimi",
+    "Mimi",
+    "Mim",
+    "Camz"
+  ],
+  "url": "https://hololist.net/camila/"
+},
+{
+  "id": 32,
+  "name": "Cecilia Immergreen",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, French, German, Norwegian",
+  "datedebuted": "June 24, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Ancient Automaton",
+    "Cece",
+    "CC"
+  ],
+  "url": "https://hololist.net/cecilia-immergreen/"
+},
+{
+  "id": 33,
+  "name": "Cerenity Cosmica",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 16, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Cosmic Brownie",
+    "Ceren",
+    "Renny"
+  ],
+  "url": "https://hololist.net/cerenity-cosmica/"
+},
+{
+  "id": 34,
+  "name": "Chae Ara",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "May 22, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/chae-ara/"
+},
+{
+  "id": 35,
+  "name": "Chibidoki",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 3, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Chibi",
+    "Gremlin",
+    "Cheebs",
+    "Cheems",
+    "Chabooki",
+    "Cheebert",
+    "Chimothy",
+    "Cringetuber",
+    "Chihuahua",
+    "chiBBin",
+    "Big Head",
+    "Jim"
+  ],
+  "url": "https://hololist.net/chibidoki/"
+},
+{
+  "id": 36,
+  "name": "Ciccino Katterina",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ciccino-katterina/"
+},
+{
+  "id": 37,
+  "name": "Claude Clawmark",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "October 27, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/claude-clawmark/"
+},
+{
+  "id": 38,
+  "name": "CottontailVA",
+  "country": "Canada (CA)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, French",
+  "datedebuted": "November 21, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Cotton",
+    "Pisstuber",
+    "Bun",
+    "CT/CTVA",
+    "Mistress",
+    "Mommy"
+  ],
+  "url": "https://hololist.net/cottontailva/"
+},
+{
+  "id": 39,
+  "name": "Crimzon Ruze",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "November 18, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/crimzon-ruze/"
+},
+{
+  "id": 40,
+  "name": "Cyon Hart",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 4, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/cyon-hart/"
+},
+{
+  "id": 41,
+  "name": "CY YU",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Male",
+  "language": "English, Spanish",
+  "datedebuted": "July 30, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Cy Yu",
+    "the CYborg SeiYU",
+    "CyYu Tech Support"
+  ],
+  "url": "https://hololist.net/cy-yu/"
+},
+{
+  "id": 42,
+  "name": "Daph",
+  "country": "Australia (AU)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/daph/"
+},
+{
+  "id": 43,
+  "name": "Debidebi Debiru",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Agender",
+  "language": "Japanese",
+  "datedebuted": "August 31, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Debi-chan"
+  ],
+  "url": "https://hololist.net/debidebi-debiru/"
+},
+{
+  "id": 44,
+  "name": "demenishki",
+  "country": "Philippines (PH)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Filipino",
+  "datedebuted": "May 26, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Deme"
+  ],
+  "url": "https://hololist.net/demenishki/"
+},
+{
+  "id": 45,
+  "name": "Derem Kado",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Indonesian",
+  "datedebuted": "November 14, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Kado"
+  ],
+  "url": "https://hololist.net/derem-kado/"
+},
+{
+  "id": 46,
+  "name": "D.K Graves",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Swedish",
+  "datedebuted": "November 11, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/d-k-graves/"
+},
+{
+  "id": 47,
+  "name": "Dokibird",
+  "country": "Canada (CA)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Cantonese, Chinese, English, French",
+  "datedebuted": "May 4, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Doki",
+    "DokibirdFPSvtuberFBttvYT"
+  ],
+  "url": "https://hololist.net/dokibird/"
+},
+{
+  "id": 48,
+  "name": "Dola",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 7, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Dora"
+  ],
+  "url": "https://hololist.net/dola/"
+},
+{
+  "id": 49,
+  "name": "Doppio Dropscythe",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "December 10, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/doppio-dropscythe/"
+},
+{
+  "id": 50,
+  "name": "DyaRikku",
+  "country": "Italy (IT)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 19, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Dya",
+    "Rikku",
+    "VT-000"
+  ],
+  "url": "https://hololist.net/dyarikku/"
+},
+{
+  "id": 51,
+  "name": "Echo Lyne",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 4, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Aicho"
+  ],
+  "url": "https://hololist.net/echo-lyne/"
+},
+{
+  "id": 52,
+  "name": "Eli Conifer",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 13, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/eli-conifer/"
+},
+{
+  "id": 53,
+  "name": "Elira Pendora",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 16, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Ewiwa",
+    "Eli",
+    "Sheesh Dragon"
+  ],
+  "url": "https://hololist.net/elira-pendora/"
+},
+{
+  "id": 54,
+  "name": "Elizabeth Rose Bloodflame",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "June 23, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Liz",
+    "Rose",
+    "Lizzie",
+    "ERB"
+  ],
+  "url": "https://hololist.net/elizabeth-rose-bloodflame/"
+},
+{
+  "id": 55,
+  "name": "Emikukis",
+  "country": "Colombia (CO)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Spanish",
+  "datedebuted": "June 30, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Emi",
+    "Dominante",
+    "Sumisa",
+    "Fresakukis",
+    "Esquizokukis",
+    "Mufakukis",
+    "Clasistakukis"
+  ],
+  "url": "https://hololist.net/emikukis/"
+},
+{
+  "id": 56,
+  "name": "Emma★August",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 3, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/emma-august/"
+},
+{
+  "id": 57,
+  "name": "Enna Alouette",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Chinese, English, Japanese",
+  "datedebuted": "October 8, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Birb"
+  ],
+  "url": "https://hololist.net/enna-alouette/"
+},
+{
+  "id": 58,
+  "name": "Etna Crimson",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "August 8, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Et",
+    "Amber"
+  ],
+  "url": "https://hololist.net/etna-crimson/"
+},
+{
+  "id": 59,
+  "name": "Ex Albio",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "May 21, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Ebio",
+    "ABO"
+  ],
+  "url": "https://hololist.net/ex-albio/"
+},
+{
+  "id": 60,
+  "name": "fallenshadow",
+  "country": "United Kingdom (GB)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 4, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Shadow",
+    "Shadow-chan",
+    "Shadow-chama",
+    "Shondo",
+    "Fallen",
+    "My Goddess",
+    "My Little Sister Wife"
+  ],
+  "url": "https://hololist.net/fallenshadow/"
+},
+{
+  "id": 61,
+  "name": "FalseEyeD",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "November 25, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/falseeyed/"
+},
+{
+  "id": 62,
+  "name": "FeFe",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 1, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/fefe/"
+},
+{
+  "id": 63,
+  "name": "Filian",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Fil",
+    "Filbert",
+    "Filly",
+    "Filipino Boy",
+    "Filipino Frank",
+    "Philly",
+    "Fluffy",
+    "Cheek Spreader",
+    "Gilian",
+    "FussyBaby",
+    "Furryan",
+    "SnackerQueen",
+    "Fillet"
+  ],
+  "url": "https://hololist.net/filian/"
+},
+{
+  "id": 64,
+  "name": "Finana Ryugu",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 16, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Fina",
+    "Feesh",
+    "Finance Ryugu",
+    "NSFW Fish"
+  ],
+  "url": "https://hololist.net/finana-ryugu/"
+},
+{
+  "id": 65,
+  "name": "Foxplushy",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 19, 2021",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/foxplushy/"
+},
+{
+  "id": 66,
+  "name": "Fulgur Ovid",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "February 27, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Fuu-chan",
+    "Fungus Oblong"
+  ],
+  "url": "https://hololist.net/fulgur-ovid/"
+},
+{
+  "id": 67,
+  "name": "Fumi",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "October 19, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Fumi-sama (フミ様)"
+  ],
+  "url": "https://hololist.net/fumi/"
+},
+{
+  "id": 68,
+  "name": "Fumino Tamaki",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 22, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Noraneko (野良猫)",
+    "Airplane Cat",
+    "Unlucky Cat",
+    "Clueless Cat"
+  ],
+  "url": "https://hololist.net/fumino-tamaki/"
+},
+{
+  "id": 69,
+  "name": "Fura Kanato",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 16, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Kanaty"
+  ],
+  "url": "https://hololist.net/fura-kanato/"
+},
+{
+  "id": 70,
+  "name": "Furen E Lustario",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "February 1, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/furen-e-lustario/"
+},
+{
+  "id": 71,
+  "name": "Fushimi Gaku",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 19, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Gakkun"
+  ],
+  "url": "https://hololist.net/fushimi-gaku/"
+},
+{
+  "id": 72,
+  "name": "Fuwa Minato",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "November 30, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Fuwacchi"
+  ],
+  "url": "https://hololist.net/fuwa-minato/"
+},
+{
+  "id": 73,
+  "name": "FUWAMOCO",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 31, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/fuwamoco/"
+},
+{
+  "id": 74,
+  "name": "Fuwawa Abyssgard",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "July 31, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Fuwa-chan"
+  ],
+  "url": "https://hololist.net/fuwawa-abyssgard/"
+},
+{
+  "id": 75,
+  "name": "Gamster Gaming",
+  "country": "Mexico (MX)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English, Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Gamster",
+    "Gams"
+  ],
+  "url": "https://hololist.net/gamster-gaming/"
+},
+{
+  "id": 76,
+  "name": "Gaon",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Korean",
+  "datedebuted": "March 12, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/gaon/"
+},
+{
+  "id": 77,
+  "name": "Gavis Bettel",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "January 8, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/gavis-bettel/"
+},
+{
+  "id": 78,
+  "name": "Gawr Gura",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "September 13, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Same-chan",
+    "Apex Predator",
+    "City Pop Shark",
+    "Samegaki",
+    "Goomba",
+    "Shork"
+  ],
+  "url": "https://hololist.net/gawr-gura/"
+},
+{
+  "id": 79,
+  "name": "GEEGA",
+  "country": "United States (US)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "February 16, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Googa",
+    "Gigi",
+    "Mother"
+  ],
+  "url": "https://hololist.net/geega/"
+},
+{
+  "id": 80,
+  "name": "Genzuki Tojiro",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 4, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Toshiro",
+    "O-Gen",
+    "Gen-chan",
+    "Duki"
+  ],
+  "url": "https://hololist.net/genzuki-tojiro/"
+},
+{
+  "id": 81,
+  "name": "Gigi Murin",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "June 24, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/gigi-murin/"
+},
+{
+  "id": 82,
+  "name": "Gilzaren III",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 19, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/gilzaren-iii/"
+},
+{
+  "id": 83,
+  "name": "girl_dm_",
+  "country": "Canada (CA)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 7, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/girl_dm_/"
+},
+{
+  "id": 84,
+  "name": "Goldbullet",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "November 17, 2023",
+  "status": "Active",
+  "nicknames": [
+    "GB",
+    "Goldie",
+    "Gibby",
+    "Gibblets"
+  ],
+  "url": "https://hololist.net/goldbullet/"
+},
+{
+  "id": 85,
+  "name": "Gwelu Os Gar",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "November 30, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Gwelu-papa"
+  ],
+  "url": "https://hololist.net/gwelu-os-gar/"
+},
+{
+  "id": 86,
+  "name": "Hakase Fuyuki",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 6, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Hakache"
+  ],
+  "url": "https://hololist.net/hakase-fuyuki/"
+},
+{
+  "id": 87,
+  "name": "Hakos Baelz",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "August 23, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Bae",
+    "Bae Maji Tenshi (BMT)",
+    "Hakotaro",
+    "Hayko Baelz "
+  ],
+  "url": "https://hololist.net/hakos-baelz/"
+},
+{
+  "id": 88,
+  "name": "Hakui Koyori",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 28, 2021",
+  "status": "Active",
+  "nicknames": [
+    "The Researcher",
+    "Koyorin",
+    "Koyote",
+    "Koyoyo"
+  ],
+  "url": "https://hololist.net/hakui-koyori/"
+},
+{
+  "id": 89,
+  "name": "Hanabatake Chaika",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 6, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Chai-chan",
+    "Chai-Chai"
+  ],
+  "url": "https://hololist.net/hanabatake-chaika/"
+},
+{
+  "id": 90,
+  "name": "Hana Macchia",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "September 13, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Hanamaki",
+    "Kaki Kunyit",
+    "Hanmak",
+    "Luwak"
+  ],
+  "url": "https://hololist.net/hana-macchia/"
+},
+{
+  "id": 91,
+  "name": "Hanasaki Miyabi",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 8, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Miyabin",
+    "Ultimate Legend",
+    "Flower Fairy",
+    "BFB",
+    "MMT",
+    "Miyako-chan"
+  ],
+  "url": "https://hololist.net/hanasaki-miyabi/"
+},
+{
+  "id": 92,
+  "name": "Haruka Karibu",
+  "country": "Canada (CA)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 8, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Haruchi",
+    "Ruka",
+    "Cabbage",
+    "Forest Puppy",
+    "Deer Leader",
+    "Caribou Queen",
+    "Cult Leader"
+  ],
+  "url": "https://hololist.net/haruka-karibu/"
+},
+{
+  "id": 93,
+  "name": "Harusaki Air",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 8, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Ouji (王子)"
+  ],
+  "url": "https://hololist.net/harusaki-air/"
+},
+{
+  "id": 94,
+  "name": "Hayama Marin",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 25, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/hayama-marin/"
+},
+{
+  "id": 95,
+  "name": "Hayase Sou",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 21, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Ran nee-chan"
+  ],
+  "url": "https://hololist.net/hayase-sou/"
+},
+{
+  "id": 96,
+  "name": "Ha Yun",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Korean",
+  "datedebuted": "September 1, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Potato"
+  ],
+  "url": "https://hololist.net/ha-yun/"
+},
+{
+  "id": 97,
+  "name": "Henya the Genius",
+  "country": "Japan (JP)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "May 13, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Henya",
+    "IQ999"
+  ],
+  "url": "https://hololist.net/henya-the-genius/"
+},
+{
+  "id": 98,
+  "name": "Hibachi Mana",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 2, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/hibachi-mana/"
+},
+{
+  "id": 99,
+  "name": "Hime Hajime",
+  "country": "Japan (JP)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "January 31, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Hime",
+    "MILF Mommy"
+  ],
+  "url": "https://hololist.net/hime-hajime/"
+},
+{
+  "id": 100,
+  "name": "Himemori Luna",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 4, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Luna-tan",
+    "Luna-Hime",
+    "Aka-chan",
+    "Luna-Himeshama"
+  ],
+  "url": "https://hololist.net/himemori-luna/"
+},
+{
+  "id": 101,
+  "name": "Hiodoshi Ao",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 9, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Ao-kun"
+  ],
+  "url": "https://hololist.net/hiodoshi-ao/"
+},
+{
+  "id": 102,
+  "name": "Honma Himawari",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 11, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Hima-chan",
+    "Honhima",
+    "Hii-chan"
+  ],
+  "url": "https://hololist.net/honma-himawari/"
+},
+{
+  "id": 103,
+  "name": "Hoshikawa Sara",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "October 19, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/hoshikawa-sara/"
+},
+{
+  "id": 104,
+  "name": "Hoshirube Sho",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 29, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/hoshirube-sho/"
+},
+{
+  "id": 105,
+  "name": "Houshou Marine",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 11, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Senchou",
+    "Maririn",
+    "Jack"
+  ],
+  "url": "https://hololist.net/houshou-marine/"
+},
+{
+  "id": 106,
+  "name": "Hyakumantenbara Salome",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 24, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/hyakumantenbara-salome/"
+},
+{
+  "id": 107,
+  "name": "Ibrahim",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "February 1, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Ib (Eve)",
+    "Himu"
+  ],
+  "url": "https://hololist.net/ibrahim/"
+},
+{
+  "id": 108,
+  "name": "Ichijou Ririka",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 9, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ichijou-ririka/"
+},
+{
+  "id": 109,
+  "name": "Igarashi Rika",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 19, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Rikashii"
+  ],
+  "url": "https://hololist.net/igarashi-rika/"
+},
+{
+  "id": 110,
+  "name": "Ike Eveland",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "December 20, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Ivy",
+    "Aiko",
+    "Ikey-Wikey",
+    "Ichael",
+    "Ikea",
+    "Spike",
+    "Swedish Sweetheart",
+    "Mike",
+    "EvelandP",
+    "Smart Cookie"
+  ],
+  "url": "https://hololist.net/ike-eveland/"
+},
+{
+  "id": 111,
+  "name": "Inami Rai",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 29, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/inami-rai/"
+},
+{
+  "id": 112,
+  "name": "Inugami Korone",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "April 13, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Koro-san",
+    "Koronen",
+    "Doggo",
+    "DOOG",
+    "God Dog",
+    "Korogi-senpai "
+  ],
+  "url": "https://hololist.net/inugami-korone/"
+},
+{
+  "id": 113,
+  "name": "Inui Toko",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 23, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Inyui",
+    "Tokotaya"
+  ],
+  "url": "https://hololist.net/inui-toko/"
+},
+{
+  "id": 114,
+  "name": "Ironmouse",
+  "country": "United States (US)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "August 5, 2017",
+  "status": "Active",
+  "nicknames": [
+    "Mousey",
+    "Satanas",
+    "Maou-su",
+    "Gremlin",
+    "Tungsten Rat"
+  ],
+  "url": "https://hololist.net/ironmouse/"
+},
+{
+  "id": 115,
+  "name": "IRyS",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "July 11, 2021",
+  "status": "Active",
+  "nicknames": [
+    "HOPE",
+    "YabaIRyS"
+  ],
+  "url": "https://hololist.net/irys/"
+},
+{
+  "id": 116,
+  "name": "Isaki Riona",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 9, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/isaki-riona/"
+},
+{
+  "id": 117,
+  "name": "Ishigami Nozomi",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 19, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ishigami-nozomi/"
+},
+{
+  "id": 118,
+  "name": "Joe Rikiichi",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "September 4, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Riki-chan"
+  ],
+  "url": "https://hololist.net/joe-rikiichi/"
+},
+{
+  "id": 119,
+  "name": "Josuiji Shinri",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "January 8, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/josuiji-shinri/"
+},
+{
+  "id": 120,
+  "name": "Juniper Actias",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 8, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Moth Mommy"
+  ],
+  "url": "https://hololist.net/juniper-actias/"
+},
+{
+  "id": 121,
+  "name": "Jurard T Rexford",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English, Filipino, Japanese",
+  "datedebuted": "November 17, 2023",
+  "status": "Active",
+  "nicknames": [
+    "T.rex"
+  ],
+  "url": "https://hololist.net/jurard-t-rexford/"
+},
+{
+  "id": 122,
+  "name": "Juufuutei Raden",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 10, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/juufuutei-raden/"
+},
+{
+  "id": 123,
+  "name": "Kaburaki Roco",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 20, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kaburaki-roco/"
+},
+{
+  "id": 124,
+  "name": "Kaela Kovalskia",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian",
+  "datedebuted": "March 26, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Kaela",
+    "Mommy",
+    "Penguin"
+  ],
+  "url": "https://hololist.net/kaela-kovalskia/"
+},
+{
+  "id": 125,
+  "name": "Kagami Hayato",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 6, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Shachou (社長)"
+  ],
+  "url": "https://hololist.net/kagami-hayato/"
+},
+{
+  "id": 126,
+  "name": "Kagekiri Maeve",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 4, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Mae"
+  ],
+  "url": "https://hololist.net/kagekiri-maeve/"
+},
+{
+  "id": 127,
+  "name": "Kageyama Shien",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 30, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Boss",
+    "Eroyama Shien",
+    "Perfect Voice Copy Mafia Boss",
+    "Hageyama Shien",
+    "Shiepi"
+  ],
+  "url": "https://hololist.net/kageyama-shien/"
+},
+{
+  "id": 128,
+  "name": "Kaida Haru",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 4, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Idaharu",
+    "Mama"
+  ],
+  "url": "https://hololist.net/kaida-haru/"
+},
+{
+  "id": 129,
+  "name": "Kaisei",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 15, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kaisei/"
+},
+{
+  "id": 130,
+  "name": "Kanade Izuru",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kanade-izuru/"
+},
+{
+  "id": 131,
+  "name": "Kanae",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "May 2, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Kana-Kana",
+    "Kana-chan",
+    "Nii-yan"
+  ],
+  "url": "https://hololist.net/kanae/"
+},
+{
+  "id": 132,
+  "name": "Kanda Shoichi",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "August 9, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kanda-shoichi/"
+},
+{
+  "id": 133,
+  "name": "Karubi Akami",
+  "country": "Japan (JP)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 28, 2021",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/karubi-akami/"
+},
+{
+  "id": 134,
+  "name": "Kataribe Tsumugu",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 31, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kataribe-tsumugu/"
+},
+{
+  "id": 135,
+  "name": "Kazama Iroha",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 30, 2021",
+  "status": "Active",
+  "nicknames": [
+    "The Bodyguard",
+    "Gozaru-chan"
+  ],
+  "url": "https://hololist.net/kazama-iroha/"
+},
+{
+  "id": 136,
+  "name": "KendoMurft",
+  "country": "Mexico (MX)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English, Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Kendo"
+  ],
+  "url": "https://hololist.net/kendomurft/"
+},
+{
+  "id": 137,
+  "name": "Kenmochi Toya",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 14, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Ken-chan",
+    "Katana-san",
+    "Mochi-san",
+    "Kenmochi Toko",
+    "Rikiya",
+    "Blade Moanaman "
+  ],
+  "url": "https://hololist.net/kenmochi-toya/"
+},
+{
+  "id": 138,
+  "name": "Kikirara Vivi",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 9, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kikirara-vivi/"
+},
+{
+  "id": 139,
+  "name": "Kirara Tamako",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kirara-tamako/"
+},
+{
+  "id": 140,
+  "name": "Kisara",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kisara/"
+},
+{
+  "id": 141,
+  "name": "Kishido Temma",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "December 14, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Dark Knight",
+    "Ten-chan",
+    "SSK (Sweet and Spicy Knight)",
+    "Tensai Kishi (Genius Knight)",
+    "CGK (Charming Genius Knight)",
+    "Tenko-chan"
+  ],
+  "url": "https://hololist.net/kishido-temma/"
+},
+{
+  "id": 142,
+  "name": "Kitakoji Hisui",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 9, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Hisupi"
+  ],
+  "url": "https://hololist.net/kitakoji-hisui/"
+},
+{
+  "id": 143,
+  "name": "Kitami Yusei",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 15, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kitami-yusei/"
+},
+{
+  "id": 144,
+  "name": "Klara Charmwood",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Chinese, English, Japanese, Thai",
+  "datedebuted": "May 25, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/klara-charmwood/"
+},
+{
+  "id": 145,
+  "name": "Kobo Kanaeru",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Chinese, English, Indonesian",
+  "datedebuted": "March 27, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Kobo",
+    "Aeru",
+    "Kobokan",
+    "Kobocil",
+    "Kobo Tempest",
+    "Koboboi Tempest Kanaslebew"
+  ],
+  "url": "https://hololist.net/kobo-kanaeru/"
+},
+{
+  "id": 146,
+  "name": "Koganei Niko",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 9, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/koganei-niko/"
+},
+{
+  "id": 147,
+  "name": "Kokone Yurikago",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "November 4, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kokone-yurikago/"
+},
+{
+  "id": 148,
+  "name": "KokoNuts",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Gender Fluid",
+  "language": "English",
+  "datedebuted": "January 31, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Koko",
+    "Gogo",
+    "Kok",
+    "Vitch",
+    "Kakabutts",
+    "KokoMelon",
+    "Cacafuts",
+    "Kookoo"
+  ],
+  "url": "https://hololist.net/kokonuts/"
+},
+{
+  "id": 149,
+  "name": "Koseki Bijou",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 30, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Biboo",
+    "Chadseki",
+    "Bidet",
+    "Bagel",
+    "Bimbo",
+    "Bejo"
+  ],
+  "url": "https://hololist.net/koseki-bijou/"
+},
+{
+  "id": 150,
+  "name": "Koshimizu Toru",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 19, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/koshimizu-toru/"
+},
+{
+  "id": 151,
+  "name": "Kotoka Torahime",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "December 10, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kotoka-torahime/"
+},
+{
+  "id": 152,
+  "name": "Koyanagi Rou",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 29, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/koyanagi-rou/"
+},
+{
+  "id": 153,
+  "name": "Kozue Mone",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kozue-mone/"
+},
+{
+  "id": 154,
+  "name": "Kson",
+  "country": "United States (US)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "May 1, 2016",
+  "status": "Active",
+  "nicknames": [
+    "Kumichou",
+    "Souchou",
+    "Aneki"
+  ],
+  "url": "https://hololist.net/kson/"
+},
+{
+  "id": 155,
+  "name": "Kuramochi Meruto",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 20, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kuramochi-meruto/"
+},
+{
+  "id": 156,
+  "name": "Kureiji Ollie",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "December 4, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Kureiji Ozzy",
+    "Olivia"
+  ],
+  "url": "https://hololist.net/kureiji-ollie/"
+},
+{
+  "id": 157,
+  "name": "Kuroi Shiba",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Agender",
+  "language": "Japanese",
+  "datedebuted": "September 25, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kuroi-shiba/"
+},
+{
+  "id": 158,
+  "name": "Kuro Kurenai",
+  "country": "",
+  "org": "VShojo",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "September 30, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Ku-chan",
+    "Chicken Nugget"
+  ],
+  "url": "https://hololist.net/kuro-kurenai/"
+},
+{
+  "id": 159,
+  "name": "Kurusu Natsume",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "December 29, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/kurusu-natsume/"
+},
+{
+  "id": 160,
+  "name": "Kuzuha",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 8, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Kuzu",
+    "Zuha",
+    "Sanya"
+  ],
+  "url": "https://hololist.net/kuzuha/"
+},
+{
+  "id": 161,
+  "name": "Lain Paterson",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 22, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Pata-san (パタさん)",
+    "Pata-nee (パタ姉)"
+  ],
+  "url": "https://hololist.net/lain-paterson/"
+},
+{
+  "id": 162,
+  "name": "La+ Darknesss",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 26, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Laplace",
+    "Laplus",
+    "The Founder",
+    "YMD",
+    "Yamada",
+    "Yama-chan"
+  ],
+  "url": "https://hololist.net/laplus-darknesss/"
+},
+{
+  "id": 163,
+  "name": "Lauren Iroas",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 22, 2021",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/lauren-iroas/"
+},
+{
+  "id": 164,
+  "name": "Layla Alstroemeria",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Indonesian",
+  "datedebuted": "March 7, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Lela",
+    "Madame",
+    "Lele"
+  ],
+  "url": "https://hololist.net/layla-alstroemeria/"
+},
+{
+  "id": 165,
+  "name": "Layna Lazar",
+  "country": "New Zealand (NZ)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 15, 2021",
+  "status": "Active",
+  "nicknames": [
+    "The Blood Mother"
+  ],
+  "url": "https://hololist.net/layna-lazar/"
+},
+{
+  "id": 166,
+  "name": "Lee Roha",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "August 7, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Eroha"
+  ],
+  "url": "https://hololist.net/lee-roha/"
+},
+{
+  "id": 167,
+  "name": "Leos Vincent",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 22, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Vin-san (ヴィンさん)",
+    "Hakase (博士)",
+    "Smoker-san"
+  ],
+  "url": "https://hololist.net/leos-vincent/"
+},
+{
+  "id": 168,
+  "name": "Levi Elipha",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 21, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/levi-elipha/"
+},
+{
+  "id": 169,
+  "name": "Limealicious",
+  "country": "United Kingdom (GB)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "September 2, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Limes",
+    "Laimu"
+  ],
+  "url": "https://hololist.net/limealicious/"
+},
+{
+  "id": 170,
+  "name": "Liora Walkyria",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Japanese, Korean",
+  "datedebuted": "May 6, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/liora-walkyria/"
+},
+{
+  "id": 171,
+  "name": "Lize Helesta",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 23, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Lize-sama",
+    "Her Highness (皇女殿下)",
+    "2nd Royal Princess (第二皇女)"
+  ],
+  "url": "https://hololist.net/lize-helesta/"
+},
+{
+  "id": 172,
+  "name": "Lord Aethelstan",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Male",
+  "language": "English, Japanese",
+  "datedebuted": "May 24, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Aethel",
+    "M'lord"
+  ],
+  "url": "https://hololist.net/lord-aethelstan/"
+},
+{
+  "id": 173,
+  "name": "Luca Kaneshiro",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "December 20, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Boss",
+    "Lucy",
+    "Himbo",
+    "Golden Retriever",
+    "Kanekuro"
+  ],
+  "url": "https://hololist.net/luca-kaneshiro/"
+},
+{
+  "id": 174,
+  "name": "Lucy Pyre",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Lucy"
+  ],
+  "url": "https://hololist.net/lucy-pyre/"
+},
+{
+  "id": 175,
+  "name": "Luis Cammy",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 3, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/luis-cammy/"
+},
+{
+  "id": 176,
+  "name": "Lunaria",
+  "country": "Chile (CL)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "May 16, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Luna",
+    "Lu",
+    "Lunita",
+    "Mommy"
+  ],
+  "url": "https://hololist.net/lunaria/"
+},
+{
+  "id": 177,
+  "name": "Lunlun",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Lun-choma"
+  ],
+  "url": "https://hololist.net/lunlun/"
+},
+{
+  "id": 178,
+  "name": "Machina X Flayon",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "January 8, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Flay"
+  ],
+  "url": "https://hololist.net/machina-x-flayon/"
+},
+{
+  "id": 179,
+  "name": "Machita Chima",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 3, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/machita-chima/"
+},
+{
+  "id": 180,
+  "name": "Maimoto Keisuke",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "August 11, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/maimoto-keisuke/"
+},
+{
+  "id": 181,
+  "name": "Makaino Ririmu",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 2, 2018",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/makaino-ririmu/"
+},
+{
+  "id": 182,
+  "name": "Maria Marionette",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Chinese, English, Japanese",
+  "datedebuted": "July 25, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/maria-marionette/"
+},
+{
+  "id": 183,
+  "name": "Mari Mari",
+  "country": "Australia (AU)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 21, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Mari",
+    "Fish",
+    "Mario",
+    "Mari Mari Underscore EN"
+  ],
+  "url": "https://hololist.net/mari-mari/"
+},
+{
+  "id": 184,
+  "name": "Mashiro",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "December 29, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/mashiro/"
+},
+{
+  "id": 185,
+  "name": "Matara Kan",
+  "country": "",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English, French, Russian, Ukrainian",
+  "datedebuted": "October 15, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Tara",
+    "Mom",
+    "Mata",
+    "Miss Claws"
+  ],
+  "url": "https://hololist.net/matara-kan/"
+},
+{
+  "id": 186,
+  "name": "Matsukai Mao",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 3, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Machukai (まちゅかい)",
+    "Machu (まちゅ)"
+  ],
+  "url": "https://hololist.net/matsukai-mao/"
+},
+{
+  "id": 187,
+  "name": "Meeta Osita",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "August 4, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/meeta-osita/"
+},
+{
+  "id": 188,
+  "name": "Meica05",
+  "country": "Argentina (AR)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Japanese, Spanish",
+  "datedebuted": "March 1, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Meica",
+    "Plantita"
+  ],
+  "url": "https://hololist.net/meica/"
+},
+{
+  "id": 189,
+  "name": "Meloco Kyoran",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "December 10, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/meloco-kyoran/"
+},
+{
+  "id": 190,
+  "name": "MeowMoonified",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 15, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Mooni"
+  ],
+  "url": "https://hololist.net/meowmoonified/"
+},
+{
+  "id": 191,
+  "name": "Michi Mochievee",
+  "country": "Indonesia (ID)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "Chinese, English, Indonesian, Japanese",
+  "datedebuted": "April 20, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Michi",
+    "Mochi",
+    "Chievee",
+    "Evee",
+    "Vee",
+    "Nathaniel",
+    "MSG-chan",
+    "Michigan"
+  ],
+  "url": "https://hololist.net/michi-mochievee/"
+},
+{
+  "id": 192,
+  "name": "Miilkywayz",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Milky",
+    "Mommy",
+    "Mother",
+    "Mommy Miilky",
+    "Miilfywayz"
+  ],
+  "url": "https://hololist.net/miilkywayz/"
+},
+{
+  "id": 193,
+  "name": "Milan Kestrel",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "November 24, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/milan-kestrel/"
+},
+{
+  "id": 194,
+  "name": "Millie Parfait",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, Filipino",
+  "datedebuted": "October 9, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Great Witch of Calamity"
+  ],
+  "url": "https://hololist.net/millie-parfait/"
+},
+{
+  "id": 195,
+  "name": "MillyMusiiC",
+  "country": "Mexico (MX)",
+  "org": "Independent",
+  "gender": "",
+  "language": "Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/millymusiic/"
+},
+{
+  "id": 196,
+  "name": "Minase Rio",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 30, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/minase-rio/"
+},
+{
+  "id": 197,
+  "name": "MinikoMew",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 6, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Miniko",
+    "Mini"
+  ],
+  "url": "https://hololist.net/minikomew/"
+},
+{
+  "id": 198,
+  "name": "Min Suha",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English, Japanese, Korean",
+  "datedebuted": "January 25, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/min-suha/"
+},
+{
+  "id": 199,
+  "name": "Mint Fantôme",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "July 24, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Maid Mint",
+    "Boomer",
+    "Minty",
+    "Freaky Ghost Maid"
+  ],
+  "url": "https://hololist.net/mint-fantome/"
+},
+{
+  "id": 200,
+  "name": "Misma Ryzing",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "Danish, English, Japanese, Korean, Norwegian, Swedish",
+  "datedebuted": "November 11, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Misma",
+    "Miss Misma",
+    "Mismama",
+    "Mima",
+    "Missy",
+    "Mi-chan"
+  ],
+  "url": "https://hololist.net/misma-ryzing/"
+},
+{
+  "id": 201,
+  "name": "Misu",
+  "country": "United Kingdom (GB)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 12, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/misu/"
+},
+{
+  "id": 202,
+  "name": "Mivi Aivori",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "March 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/mivi-aivori/"
+},
+{
+  "id": 203,
+  "name": "Mizumiya Su",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 9, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/mizumiya-su/"
+},
+{
+  "id": 204,
+  "name": "Mococo Abyssgard",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 31, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Moco-chan"
+  ],
+  "url": "https://hololist.net/mococo-abyssgard/"
+},
+{
+  "id": 205,
+  "name": "Momo",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Momo Mischief"
+  ],
+  "url": "https://hololist.net/momo/"
+},
+{
+  "id": 206,
+  "name": "Momosuzu Nene",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 13, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Nenechi",
+    "NENEMAX",
+    "Supernenechi",
+    "Nenene"
+  ],
+  "url": "https://hololist.net/momosuzu-nene/"
+},
+{
+  "id": 207,
+  "name": "Monarch, Queen of the Multiverse",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 11, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Monarch",
+    "AmaLee"
+  ],
+  "url": "https://hololist.net/monarch-queen-of-the-multiverse/"
+},
+{
+  "id": 208,
+  "name": "Moona Hoshinova",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian",
+  "datedebuted": "April 11, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Mamah Moona",
+    "Moonaroh",
+    "Moona-Simpai",
+    "NPC Moona",
+    "Mamank Hoshinov"
+  ],
+  "url": "https://hololist.net/moona-hoshinova/"
+},
+{
+  "id": 209,
+  "name": "Mori Calliope",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "September 12, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Calli",
+    "Miss Mori",
+    "CallioP",
+    "Dad",
+    "Kawaiiope"
+  ],
+  "url": "https://hololist.net/mori-calliope/"
+},
+{
+  "id": 210,
+  "name": "Morinaka Kazaki",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 17, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Kaza-chan",
+    "Vampire Kazaki-sama"
+  ],
+  "url": "https://hololist.net/morinaka-kazaki/"
+},
+{
+  "id": 211,
+  "name": "Murakumo Kagetsu",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 29, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/murakumo-kagetsu/"
+},
+{
+  "id": 212,
+  "name": "Nachoneko",
+  "country": "Japan (JP)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 5, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Nacho",
+    "Nyacho",
+    "Nachomama",
+    "Mamashiro"
+  ],
+  "url": "https://hololist.net/nachoneko/"
+},
+{
+  "id": 213,
+  "name": "Nagao Kei",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 4, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/nagao-kei/"
+},
+{
+  "id": 214,
+  "name": "Nagisa Arcinia",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Indonesian",
+  "datedebuted": "November 14, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Manggis",
+    "Dek Nagisa"
+  ],
+  "url": "https://hololist.net/nagisa-arcinia/"
+},
+{
+  "id": 215,
+  "name": "Nagisa Trout",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/nagisa-trout/"
+},
+{
+  "id": 216,
+  "name": "Nanase Suzuna",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/nanase-suzuna/"
+},
+{
+  "id": 217,
+  "name": "Nanashi Mumei",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 23, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Meimei",
+    "Nanashi Muman"
+  ],
+  "url": "https://hololist.net/nanashi-mumei/"
+},
+{
+  "id": 218,
+  "name": "Naraka",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "December 29, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Nyaraka"
+  ],
+  "url": "https://hololist.net/naraka/"
+},
+{
+  "id": 219,
+  "name": "Na Sera",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "September 1, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Mahou Shojo"
+  ],
+  "url": "https://hololist.net/na-sera/"
+},
+{
+  "id": 220,
+  "name": "Nekomata Okayu",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "April 6, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Okayun",
+    "Okato",
+    "Okazu"
+  ],
+  "url": "https://hololist.net/nekomata-okayu/"
+},
+{
+  "id": 221,
+  "name": "Nekomugi Tororo",
+  "country": "Japan (JP)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 31, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Tororo (とろろ)"
+  ],
+  "url": "https://hololist.net/nekomugi-tororo/"
+},
+{
+  "id": 222,
+  "name": "Nephtunie",
+  "country": "Mexico (MX)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Spanish",
+  "datedebuted": "December 21, 2021",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/nephtunie/"
+},
+{
+  "id": 223,
+  "name": "Nerissa Ravencroft",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 31, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Rissa",
+    "Neri",
+    "The Demon of Soup",
+    "Nori-chan"
+  ],
+  "url": "https://hololist.net/nerissa-ravencroft/"
+},
+{
+  "id": 224,
+  "name": "Neuro-sama",
+  "country": "",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 19, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Gymbag",
+    "Copium-Sama",
+    "Neurotoxin-sama",
+    "Noodle-chan",
+    "Gaslight-Sama",
+    "Goody Two-Shoes",
+    "Cha Cha",
+    "Neuro",
+    "Evil Neuro",
+    "Evil-chan"
+  ],
+  "url": "https://hololist.net/neuro-sama/"
+},
+{
+  "id": 225,
+  "name": "Nimu Spacecat",
+  "country": "Argentina (AR)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Spanish",
+  "datedebuted": "February 13, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Pinu",
+    "Slime Morado",
+    "Nimu Espacio Gato"
+  ],
+  "url": "https://hololist.net/nimu-spacecat/"
+},
+{
+  "id": 226,
+  "name": "Ninomae Ina’nis",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese, Korean",
+  "datedebuted": "September 13, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Ina",
+    "Tako"
+  ],
+  "url": "https://hololist.net/ninomae-inanis/"
+},
+{
+  "id": 227,
+  "name": "Nishizono Chigusa",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 10, 2020",
+  "status": "Active",
+  "nicknames": [
+    "ChiguP",
+    "Ochigu"
+  ],
+  "url": "https://hololist.net/nishizono-chigusa/"
+},
+{
+  "id": 228,
+  "name": "Nui Sociere",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 25, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Nui-sama"
+  ],
+  "url": "https://hololist.net/nui-sociere/"
+},
+{
+  "id": 229,
+  "name": "Nyatasha Nyanners",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 17, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Nyanners",
+    "Nyan/Nyans",
+    "Nyaniki",
+    "Nyatasha Kotova Nyanners III",
+    "Nyanchi",
+    "Cyberwitch Shilkwormia",
+    "Pink Cat",
+    "Big Guy"
+  ],
+  "url": "https://hololist.net/nyatasha-nyanners/"
+},
+{
+  "id": 230,
+  "name": "Octavio",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Filipino",
+  "datedebuted": "November 18, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Tavi",
+    "5012khgia"
+  ],
+  "url": "https://hololist.net/octavio/"
+},
+{
+  "id": 231,
+  "name": "Oh Jiyu",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese, Korean",
+  "datedebuted": "October 16, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Jiyumama",
+    "Jiyuemon"
+  ],
+  "url": "https://hololist.net/oh-jiyu/"
+},
+{
+  "id": 232,
+  "name": "Oliver Evans",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 22, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Professor (プロフェッサー)"
+  ],
+  "url": "https://hololist.net/oliver-evans/"
+},
+{
+  "id": 233,
+  "name": "Omaru Polka",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Omarun",
+    "Zachou (Ringmaster)",
+    "Omapol",
+    "Pol",
+    "Poltato"
+  ],
+  "url": "https://hololist.net/omaru-polka/"
+},
+{
+  "id": 234,
+  "name": "OniGiri",
+  "country": "Canada (CA)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Chinese, English, Japanese",
+  "datedebuted": "August 3, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Giri",
+    "Jerry",
+    "Gary",
+    "Only Geary",
+    "Lola Giri"
+  ],
+  "url": "https://hololist.net/onigiri/"
+},
+{
+  "id": 235,
+  "name": "Onomachi Haruka",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 30, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Waka-okami",
+    "Onono-chan",
+    "Onoharu"
+  ],
+  "url": "https://hololist.net/onomachi-haruka/"
+},
+{
+  "id": 236,
+  "name": "Otonose Kanade",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Japanese, Korean",
+  "datedebuted": "September 9, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/otonose-kanade/"
+},
+{
+  "id": 237,
+  "name": "Ouro Kronii",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Korean",
+  "datedebuted": "August 23, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Kronini",
+    "Kroniicopter",
+    "Clock-kun",
+    "Ouro Krono"
+  ],
+  "url": "https://hololist.net/ouro-kronii/"
+},
+{
+  "id": 238,
+  "name": "PapitasVT",
+  "country": "Peru (PE)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "Spanish",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": [
+    "Papitas",
+    "PPapasLays"
+  ],
+  "url": "https://hololist.net/papitasvt/"
+},
+{
+  "id": 239,
+  "name": "Pavolia Reine",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese",
+  "datedebuted": "December 6, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Kanjeng Reine",
+    "Reine-sensei",
+    "Pavorio Reihan",
+    "Reine Mama",
+    "Turkey",
+    "Rei-nee"
+  ],
+  "url": "https://hololist.net/pavolia-reine/"
+},
+{
+  "id": 240,
+  "name": "Penelope Wiseman",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Japanese, Korean",
+  "datedebuted": "May 6, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Lofi"
+  ],
+  "url": "https://hololist.net/penelope-wiseman/"
+},
+{
+  "id": 241,
+  "name": "Petra Gurin",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Chinese, English, Japanese",
+  "datedebuted": "July 17, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Peter Gurin",
+    "Wife",
+    "Petwa",
+    "Princess Petra"
+  ],
+  "url": "https://hololist.net/petra-gurin/"
+},
+{
+  "id": 242,
+  "name": "Pinkchyu",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 20, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/pinkchyu/"
+},
+{
+  "id": 243,
+  "name": "Ponto Nei",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 20, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Pon-chan"
+  ],
+  "url": "https://hololist.net/ponto-nei/"
+},
+{
+  "id": 244,
+  "name": "Porcelain Maid",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "March 10, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Joel",
+    "Jowol"
+  ],
+  "url": "https://hololist.net/porcelain-maid/"
+},
+{
+  "id": 245,
+  "name": "Projekt Melody",
+  "country": "United States (US)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "December 27, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Mel (メル)"
+  ],
+  "url": "https://hololist.net/projekt-melody/"
+},
+{
+  "id": 246,
+  "name": "Rai Galilei",
+  "country": "Indonesia (ID)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Indonesian",
+  "datedebuted": "December 18, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Babuy"
+  ],
+  "url": "https://hololist.net/rai-galilei/"
+},
+{
+  "id": 247,
+  "name": "Rainhoe",
+  "country": "Netherlands (NL)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 24, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Rain",
+    "Rainbow"
+  ],
+  "url": "https://hololist.net/rainhoe/"
+},
+{
+  "id": 248,
+  "name": "Rakkun",
+  "country": "Peru (PE)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Japanese, Spanish",
+  "datedebuted": "August 28, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Rak",
+    "Rakkum",
+    "Rakkuncita"
+  ],
+  "url": "https://hololist.net/rakkun/"
+},
+{
+  "id": 249,
+  "name": "Raora Panthera",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Italian",
+  "datedebuted": "June 23, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Big Pink Cat",
+    "Rao",
+    "Rara",
+    "Panty"
+  ],
+  "url": "https://hololist.net/raora-panthera/"
+},
+{
+  "id": 250,
+  "name": "Ratna Petit",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 13, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ratna-petit/"
+},
+{
+  "id": 251,
+  "name": "Regis Altare",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "July 23, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/regis-altare/"
+},
+{
+  "id": 252,
+  "name": "Reimu Endou",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, French, Japanese, Spanish",
+  "datedebuted": "October 8, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Ghost of Darkness (闇の幽霊)",
+    "Wife"
+  ],
+  "url": "https://hololist.net/reimu-endou/"
+},
+{
+  "id": 253,
+  "name": "Ren Zotto",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "July 25, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ren-zotto/"
+},
+{
+  "id": 254,
+  "name": "Rikka",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "October 20, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Ricchan",
+    "Rikkun",
+    "Ritsuko-chan"
+  ],
+  "url": "https://hololist.net/rikka/"
+},
+{
+  "id": 255,
+  "name": "Rima Evenstar",
+  "country": "Canada (CA)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English, French",
+  "datedebuted": "May 28, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Rims",
+    "Fox Girl",
+    "Horse Girl"
+  ],
+  "url": "https://hololist.net/rima-evenstar/"
+},
+{
+  "id": 256,
+  "name": "Rindo Chihaya",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 9, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/rindo-chihaya/"
+},
+{
+  "id": 257,
+  "name": "Rindou Mikoto",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 31, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Mikoto"
+  ],
+  "url": "https://hololist.net/rindou-mikoto/"
+},
+{
+  "id": 258,
+  "name": "Rosemi Lovelock",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English, French, Japanese",
+  "datedebuted": "July 17, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Wosemi",
+    "Brosemi",
+    "The Great Wosemi-sama",
+    "Satan"
+  ],
+  "url": "https://hololist.net/rosemi-lovelock/"
+},
+{
+  "id": 259,
+  "name": "Rowa Arctos",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, Korean",
+  "datedebuted": "March 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/rowa-arctos/"
+},
+{
+  "id": 260,
+  "name": "rpr",
+  "country": "Croatia (HR)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "May 29, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/rpr/"
+},
+{
+  "id": 261,
+  "name": "Ryoma Barrenwort",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "May 25, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ryoma-barrenwort/"
+},
+{
+  "id": 262,
+  "name": "Ryu Hari",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "October 16, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ryu-hari/"
+},
+{
+  "id": 263,
+  "name": "Ryushen",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Agender",
+  "language": "Japanese",
+  "datedebuted": "June 8, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Midori"
+  ],
+  "url": "https://hololist.net/ryushen/"
+},
+{
+  "id": 264,
+  "name": "Saegusa Akina",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 7, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Akkeyna",
+    "Akkiina"
+  ],
+  "url": "https://hololist.net/saegusa-akina/"
+},
+{
+  "id": 265,
+  "name": "Saiiren",
+  "country": "United Kingdom (GB)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "Chinese, English, Filipino, French, German, Italian, Japanese, Korean, Spanish",
+  "datedebuted": "April 29, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Saii"
+  ],
+  "url": "https://hololist.net/saiiren/"
+},
+{
+  "id": 266,
+  "name": "Saiki Ittetsu",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 2, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/saiki-ittetsu/"
+},
+{
+  "id": 267,
+  "name": "Sakaki Ness",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 15, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/sakaki-ness/"
+},
+{
+  "id": 268,
+  "name": "Sakamata Chloe",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 29, 2021",
+  "status": "Active",
+  "nicknames": [
+    "The Cleaner/Intern"
+  ],
+  "url": "https://hololist.net/sakamata-chloe/"
+},
+{
+  "id": 269,
+  "name": "Sakayori Soma",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/sakayori-soma/"
+},
+{
+  "id": 270,
+  "name": "Sakura Miko",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 1, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Miko-chi",
+    "Elite Miko",
+    "Virtual Elite Miko",
+    "sakuramiko35",
+    "Mikomiko"
+  ],
+  "url": "https://hololist.net/sakura-miko/"
+},
+{
+  "id": 271,
+  "name": "Sakura Ritsuki",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 31, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Ritsukin",
+    "Ricchan"
+  ],
+  "url": "https://hololist.net/sakura-ritsuki/"
+},
+{
+  "id": 272,
+  "name": "Sanagi Yuzu",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English, Japanese",
+  "datedebuted": "June 12, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Yaurzaur",
+    "Moff"
+  ],
+  "url": "https://hololist.net/sanagi-yuzu/"
+},
+{
+  "id": 273,
+  "name": "Saotome Berry",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/saotome-berry/"
+},
+{
+  "id": 274,
+  "name": "Saruei",
+  "country": "France (FR)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 7, 2021",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/saruei/"
+},
+{
+  "id": 275,
+  "name": "Sasaki Saku",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 7, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Saki-chan",
+    "Sasaki"
+  ],
+  "url": "https://hololist.net/sasaki-saku/"
+},
+{
+  "id": 276,
+  "name": "Scarle Yonaguni",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 25, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/scarle-yonaguni/"
+},
+{
+  "id": 277,
+  "name": "Seffyna",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "April 30, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Fyna",
+    "Seffy",
+    "Bee fairy",
+    "K-fairy"
+  ],
+  "url": "https://hololist.net/seffyna/"
+},
+{
+  "id": 278,
+  "name": "Senz",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Male",
+  "language": "English, French, Persian",
+  "datedebuted": "January 7, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/senz/"
+},
+{
+  "id": 279,
+  "name": "Seraph Dazzlegarden",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 16, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Sera",
+    "Serao"
+  ],
+  "url": "https://hololist.net/seraph-dazzlegarden/"
+},
+{
+  "id": 280,
+  "name": "Seto Miyako",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 30, 2019",
+  "status": "Active",
+  "nicknames": [
+    "SetoMiya"
+  ],
+  "url": "https://hololist.net/seto-miyako/"
+},
+{
+  "id": 281,
+  "name": "Shellin Burgundy",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "September 21, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/shellin-burgundy/"
+},
+{
+  "id": 282,
+  "name": "Shiga Riko",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/shiga-riko/"
+},
+{
+  "id": 283,
+  "name": "Shiina Yuika",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 1, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Shiishii"
+  ],
+  "url": "https://hololist.net/shiina-yuika/"
+},
+{
+  "id": 284,
+  "name": "Shikinagi Akira",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 16, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Nagi",
+    "Nagi-mama",
+    "Shikky"
+  ],
+  "url": "https://hololist.net/shikinagi-akira/"
+},
+{
+  "id": 285,
+  "name": "Shioriha Ruri",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 24, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/shioriha-ruri/"
+},
+{
+  "id": 286,
+  "name": "Shiori Novella",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "July 30, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/shiori-novella/"
+},
+{
+  "id": 287,
+  "name": "Shiranui Flare",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 7, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Fuu-tan",
+    "Nui",
+    "Nee-san",
+    "Homura"
+  ],
+  "url": "https://hololist.net/shiranui-flare/"
+},
+{
+  "id": 288,
+  "name": "Shirayuki Tomoe",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 30, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/shirayuki-tomoe/"
+},
+{
+  "id": 289,
+  "name": "Shirogane Noel",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 8, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Danchou",
+    "Noe-Chan",
+    "Noel Deluxe",
+    "Delicious Woman Knight"
+  ],
+  "url": "https://hololist.net/shirogane-noel/"
+},
+{
+  "id": 290,
+  "name": "Shishido Akari",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 20, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Akapya",
+    "Aka-chan"
+  ],
+  "url": "https://hololist.net/shishido-akari/"
+},
+{
+  "id": 291,
+  "name": "Shishiro Botan",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 14, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Shishiron",
+    "Adidas Lion",
+    "Apex Predator",
+    "La~Lion",
+    "Botan Mama"
+  ],
+  "url": "https://hololist.net/shishiro-botan/"
+},
+{
+  "id": 292,
+  "name": "Shu Yamino",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "December 20, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Shoe",
+    "Kutsu",
+    "Shubert",
+    "Tech Shupport",
+    "Shu Hikarino",
+    "Shu Kurano"
+  ],
+  "url": "https://hololist.net/shu-yamino/"
+},
+{
+  "id": 293,
+  "name": "Shxtou",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "October 2, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Shou",
+    "Shoto",
+    "Shorto",
+    "Shotoes",
+    "Shottom",
+    "Shomega"
+  ],
+  "url": "https://hololist.net/shxtou/"
+},
+{
+  "id": 294,
+  "name": "Shylily",
+  "country": "Germany (DE)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "January 10, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Lily"
+  ],
+  "url": "https://hololist.net/shylily/"
+},
+{
+  "id": 295,
+  "name": "Silvervale",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 24, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Silver"
+  ],
+  "url": "https://hololist.net/silvervale/"
+},
+{
+  "id": 296,
+  "name": "Sinder",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "June 25, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Sindy",
+    "Sin"
+  ],
+  "url": "https://hololist.net/sinder/"
+},
+{
+  "id": 297,
+  "name": "Sister Claire",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 5, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Cleaire"
+  ],
+  "url": "https://hololist.net/sister-claire/"
+},
+{
+  "id": 298,
+  "name": "Snuffy",
+  "country": "United States (US)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "April 20, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Queen of Trash",
+    "Trash Goddess",
+    "Trash Panda",
+    "Nyan Nyan Fart Girl",
+    "Stuffy",
+    "Buffy",
+    "Snowffy",
+    "Sniffy",
+    "SCP-42069",
+    "The Longest Aliver"
+  ],
+  "url": "https://hololist.net/snuffy/"
+},
+{
+  "id": 299,
+  "name": "So Nagi",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "May 22, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Unagi"
+  ],
+  "url": "https://hololist.net/so-nagi/"
+},
+{
+  "id": 300,
+  "name": "Sonny Brisko",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "February 27, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Commander",
+    "Taichou"
+  ],
+  "url": "https://hololist.net/sonny-brisko/"
+},
+{
+  "id": 301,
+  "name": "Sophia Valentine",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 19, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Sophie"
+  ],
+  "url": "https://hololist.net/sophia-valentine/"
+},
+{
+  "id": 302,
+  "name": "Sorahoshi Kirame",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 11, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/sorahoshi-kirame/"
+},
+{
+  "id": 303,
+  "name": "Spectra Libitina",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 11, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Tia"
+  ],
+  "url": "https://hololist.net/spectra-libitina/"
+},
+{
+  "id": 304,
+  "name": "SquChan",
+  "country": "Hungary (HU)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "February 13, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Squchii",
+    "Space Cat"
+  ],
+  "url": "https://hololist.net/squchan/"
+},
+{
+  "id": 305,
+  "name": "Sukoya Kana",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 21, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/sukoya-kana/"
+},
+{
+  "id": 306,
+  "name": "Sun Kenji",
+  "country": "United States (US)",
+  "org": "Mythic Talent",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/sun-kenji/"
+},
+{
+  "id": 307,
+  "name": "Suo Sango",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 9, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Ngo"
+  ],
+  "url": "https://hololist.net/suo-sango/"
+},
+{
+  "id": 308,
+  "name": "Suri Solari",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "August 4, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/suri-solari/"
+},
+{
+  "id": 309,
+  "name": "Suzuki Masaru",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 8, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Darkness Eater"
+  ],
+  "url": "https://hololist.net/suzuki-masaru/"
+},
+{
+  "id": 310,
+  "name": "Tachitsute Toto",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 24, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/tachitsute-toto/"
+},
+{
+  "id": 311,
+  "name": "Takamiya Rion",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 9, 2018",
+  "status": "Active",
+  "nicknames": [
+    "DJ TAKAMiY"
+  ],
+  "url": "https://hololist.net/takamiya-rion/"
+},
+{
+  "id": 312,
+  "name": "Takanashi Kiara",
+  "country": "",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, German, Japanese",
+  "datedebuted": "September 12, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Kusotori",
+    "Tenchou",
+    "Mama Chimkin"
+  ],
+  "url": "https://hololist.net/takanashi-kiara/"
+},
+{
+  "id": 313,
+  "name": "Takane Lui",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 27, 2021",
+  "status": "Active",
+  "nicknames": [
+    "The XO",
+    "Rui-nee",
+    "Lui Lui"
+  ],
+  "url": "https://hololist.net/takane-lui/"
+},
+{
+  "id": 314,
+  "name": "Tamanoi Nana",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 22, 2024",
+  "status": "Active",
+  "nicknames": [
+    "Nanatama"
+  ],
+  "url": "https://hololist.net/tamanoi-nana/"
+},
+{
+  "id": 315,
+  "name": "Todo Kohaku",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 10, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/todo-kohaku/"
+},
+{
+  "id": 316,
+  "name": "Todoroki Hajime",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "September 10, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Banchou"
+  ],
+  "url": "https://hololist.net/todoroki-hajime/"
+},
+{
+  "id": 317,
+  "name": "Todoroki Kyoko",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "June 7, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Roki-chan"
+  ],
+  "url": "https://hololist.net/todoroki-kyoko/"
+},
+{
+  "id": 318,
+  "name": "Tokoyami Towa",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 3, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Towa-sama",
+    "Towa Maji Tenshi (TMT)",
+    "Towa-kun",
+    "Eternal "
+  ],
+  "url": "https://hololist.net/tokoyami-towa/"
+},
+{
+  "id": 319,
+  "name": "Tomomi Toraya",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English, French",
+  "datedebuted": "March 16, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/tomomi-toraya/"
+},
+{
+  "id": 320,
+  "name": "Tsunomaki Watame",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "December 29, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Watambe-senpai",
+    "Sheep",
+    "Wataoji",
+    "Watamelon"
+  ],
+  "url": "https://hololist.net/tsunomaki-watame/"
+},
+{
+  "id": 321,
+  "name": "Twisty Amanozako",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 25, 2024",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/twisty-amanozako/"
+},
+{
+  "id": 322,
+  "name": "Uki Violeta",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Chinese, English, Korean",
+  "datedebuted": "February 27, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/uki-violeta/"
+},
+{
+  "id": 323,
+  "name": "Umise Yotsuha",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "March 20, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/umise-yotsuha/"
+},
+{
+  "id": 324,
+  "name": "Usada Pekora",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 17, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Peko-chan",
+    "Ushida Bekora",
+    "Shachou"
+  ],
+  "url": "https://hololist.net/usada-pekora/"
+},
+{
+  "id": 325,
+  "name": "Usami Rito",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "April 2, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/usami-rito/"
+},
+{
+  "id": 326,
+  "name": "Ushimi Ichigo",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "April 5, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Ichigo"
+  ],
+  "url": "https://hololist.net/ushimi-ichigo/"
+},
+{
+  "id": 327,
+  "name": "Utsugi Uyu",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 29, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/utsugi-uyu/"
+},
+{
+  "id": 328,
+  "name": "Uzuki Kou",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 14, 2018",
+  "status": "Active",
+  "nicknames": [
+    "UzuKou"
+  ],
+  "url": "https://hololist.net/uzuki-kou/"
+},
+{
+  "id": 329,
+  "name": "Vantacrow Bringer",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "June 24, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Vanta"
+  ],
+  "url": "https://hololist.net/vantacrow-bringer/"
+},
+{
+  "id": 330,
+  "name": "Veibae",
+  "country": "United Kingdom (GB)",
+  "org": "Mythic Talent",
+  "gender": "Female",
+  "language": "English, Polish",
+  "datedebuted": "April 12, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Vei"
+  ],
+  "url": "https://hololist.net/veibae/"
+},
+{
+  "id": 331,
+  "name": "Ver Vermillion",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English, Korean",
+  "datedebuted": "December 10, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/ver-vermillion/"
+},
+{
+  "id": 332,
+  "name": "Vestia Zeta",
+  "country": "Indonesia (ID)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "English, Indonesian, Japanese, Korean",
+  "datedebuted": "March 25, 2022",
+  "status": "Active",
+  "nicknames": [
+    "V.7",
+    "Zeta",
+    "Jeta",
+    "Cat"
+  ],
+  "url": "https://hololist.net/vestia-zeta/"
+},
+{
+  "id": 333,
+  "name": "Vezalius Bandage",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English, French, Japanese",
+  "datedebuted": "June 24, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Zali",
+    "Vezalius Bondage"
+  ],
+  "url": "https://hololist.net/vezalius-bandage/"
+},
+{
+  "id": 334,
+  "name": "Vienna",
+  "country": "Canada (CA)",
+  "org": "Independent",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "May 17, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Vie",
+    "Bienna",
+    "Vienna Sausage"
+  ],
+  "url": "https://hololist.net/vienna/"
+},
+{
+  "id": 335,
+  "name": "Vox Akuma",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English",
+  "datedebuted": "December 20, 2021",
+  "status": "Active",
+  "nicknames": [
+    "Milord",
+    "Box",
+    "Voxanne",
+    "Malewife",
+    "Box Tenshi",
+    "Voxxy",
+    "Peepaw",
+    "Miflat",
+    "Daddy"
+  ],
+  "url": "https://hololist.net/vox-akuma/"
+},
+{
+  "id": 336,
+  "name": "Watarai Hibari",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "July 16, 2022",
+  "status": "Active",
+  "nicknames": [
+    "Hiba",
+    "Tarai"
+  ],
+  "url": "https://hololist.net/watarai-hibari/"
+},
+{
+  "id": 337,
+  "name": "Yaguruma Rine",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "November 30, 2017",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yaguruma-rine/"
+},
+{
+  "id": 338,
+  "name": "Yamagami Karuta",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "October 19, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yamagami-karuta/"
+},
+{
+  "id": 339,
+  "name": "Yang Nari",
+  "country": "South Korea (KR)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Korean",
+  "datedebuted": "October 16, 2020",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yang-nari/"
+},
+{
+  "id": 340,
+  "name": "Yashiro Kizuku",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "June 6, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Yashiro",
+    "Yashikizu",
+    "Papa"
+  ],
+  "url": "https://hololist.net/yashiro-kizuku/"
+},
+{
+  "id": 341,
+  "name": "Yatogami Fuma",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "March 29, 2022",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yatogami-fuma/"
+},
+{
+  "id": 342,
+  "name": "Yorumi Rena",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "July 6, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yorumi-rena/"
+},
+{
+  "id": 343,
+  "name": "Yuhi Riri",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 13, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Tobari",
+    "Miraijin"
+  ],
+  "url": "https://hololist.net/yuhi-riri/"
+},
+{
+  "id": 344,
+  "name": "Yukihana Lamy",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "August 12, 2020",
+  "status": "Active",
+  "nicknames": [
+    "Lamy Mama",
+    "Wamy"
+  ],
+  "url": "https://hololist.net/yukihana-lamy/"
+},
+{
+  "id": 345,
+  "name": "Yukishiro Mahiro",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "May 1, 2019",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/yukishiro-mahiro/"
+},
+{
+  "id": 346,
+  "name": "Yukoku Roberu",
+  "country": "Japan (JP)",
+  "org": "hololive production",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "December 24, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Son",
+    "Winning Son",
+    "Eroberu",
+    "Robe-san",
+    "Roberun",
+    "Robe-chan"
+  ],
+  "url": "https://hololist.net/yukoku-roberu/"
+},
+{
+  "id": 347,
+  "name": "Yumeoi Kakeru",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "Japanese",
+  "datedebuted": "September 25, 2018",
+  "status": "Active",
+  "nicknames": [
+    "Yumeo",
+    "Papa"
+  ],
+  "url": "https://hololist.net/yumeoi-kakeru/"
+},
+{
+  "id": 348,
+  "name": "Yu Q. Wilson",
+  "country": "",
+  "org": "NIJISANJI Project",
+  "gender": "Male",
+  "language": "English, French",
+  "datedebuted": "June 24, 2023",
+  "status": "Active",
+  "nicknames": [
+    "Yu",
+    "Wilson",
+    "Yuyu",
+    "Yu-chan",
+    "Yu Q. Willy"
+  ],
+  "url": "https://hololist.net/yu-q-wilson/"
+},
+{
+  "id": 349,
+  "name": "Yuzuki Roa",
+  "country": "Japan (JP)",
+  "org": "NIJISANJI Project",
+  "gender": "Female",
+  "language": "Japanese",
+  "datedebuted": "January 17, 2019",
+  "status": "Active",
+  "nicknames": [
+    "Roa-chan"
+  ],
+  "url": "https://hololist.net/yuzuki-roa/"
+},
+{
+  "id": 350,
+  "name": "Zeli Zuimu",
+  "country": "",
+  "org": "V&U",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 11, 2023",
+  "status": "Active",
+  "nicknames": null,
+  "url": "https://hololist.net/zeli-zuimu/"
+},
+{
+  "id": 351,
+  "name": "Zentreya",
+  "country": "United States (US)",
+  "org": "VShojo",
+  "gender": "Female",
+  "language": "English",
+  "datedebuted": "November 26, 2017",
+  "status": "Active",
+  "nicknames": [
+    "Zen",
+    "Dragonqueen",
+    "Zentraya",
+    "Formerly: Commander"
+  ],
+  "url": "https://hololist.net/zentreya/"
+},
+{
+  "id": 352,
+  "name": "ZilverK",
+  "country": "Mexico (MX)",
+  "org": "Independent",
+  "gender": "Male",
+  "language": "English, Spanish",
+  "datedebuted": "October 27, 2021",
+  "status": "Active",
+  "nicknames": [
+    "ZK",
+    "Rata Roja",
+    "Bicho Rojo",
+    "Tricampeón de Activision",
+    "Mochilverk",
+    "El Rey del Rol",
+    "El Patrón",
+    "El Mariana",
+    "El Tito",
+    "Pene pequeño",
+    "Telemundo's Roflgator"
+  ],
+  "url": "https://hololist.net/zilverk/"
+}
+]
